@@ -1,6 +1,7 @@
 package processamento; 
 import java.time.LocalDate;
 
+
 public class ProcNota {
     private String nomeClienteFatura;
     private LocalDate dataDaBaixa;
